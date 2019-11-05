@@ -4,14 +4,8 @@ date = "2019-11-05"
 menu = "main"
 +++
 
-Hugo is a static site engine written in Go.
+This site is run by an obsessive data exporter named Dan ([@BLTjetpack](https://twitter.com/BLTjetpack)).
 
+## Contributing
 
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+If you'd like to contribute to the data on this site, please make a Pull Request on GitHub. If you aren't familiar with Git, reach out to @BLTjetpack on twitter with all relevant information.
