@@ -1,4 +1,4 @@
-baseURL = "https://backupyoush.it/guide/"
+baseURL = "https://backupyoush.it"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
@@ -60,8 +60,3 @@ enableMissingTranslationPlaceholders = false
     name = "Home"
     url = "/"
     weight = 1
-
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/BLTjetpack"
-    weight = 2
