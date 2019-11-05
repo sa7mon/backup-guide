@@ -19,12 +19,12 @@ enableMissingTranslationPlaceholders = false
 
     # Souce Code repository section
     description = "Guides to preserve your online life"
-    github_repository = "https://github.com/sa7mon/backup-guide"
+    github_repository = "https://github.com/sa7mon/backup-your-shit"
     version = "0.4.0"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
-    github_doc_repository = "https://github.com/sa7mon/backup-guide"
+    github_doc_repository = "https://github.com/sa7mon/backup-your-shit"
 
     # Analytic section
     google_analytics_id = "" # Your Google Analytics tracking id
@@ -39,6 +39,7 @@ enableMissingTranslationPlaceholders = false
     # Documentation Menu section
     # Menu style settings
     menu_style = "open-menu" # "open-menu" or "slide-menu"
+    ordersectionsby = "title"
 
     # Date format
     dateformat = "" # default "2 Jan 2006"
