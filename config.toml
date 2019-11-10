@@ -18,7 +18,7 @@ enableMissingTranslationPlaceholders = false
 [Params]
 
     # Souce Code repository section
-    description = "Guides to preserve your online life"
+    description = "Guides to help you preserve your online life"
     github_repository = "https://github.com/sa7mon/backup-your-shit"
     version = "0.4.0"
 
