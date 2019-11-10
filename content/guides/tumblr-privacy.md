@@ -1,16 +1,15 @@
 ---
 title: "Tumblr - Privacy Data"
-date: 2019-11-06
-lastmod: 2019-11-06
-publishdate: 2019-11-06
-draft: true
+date: 2019-11-09
+lastmod: 2019-11-09
+publishdate: 2019-11-09
+draft: false
 ---
 
 ##  Official Method
 
 * **Difficulty:** Easy
 * **Speed:** 1-30 days
-* **Official Instructions:** [here](https://tumblr.zendesk.com/hc/en-us/articles/360003604974-Access-and-manage-data-associated-with-your-account)
 * **Data exported:**
 	* Active times
 	* Ads served
@@ -22,6 +21,9 @@ draft: true
 	* Most important tags
 	* Push notification history
 	* User interests
+* **Official Instructions:** [here](https://tumblr.zendesk.com/hc/en-us/articles/360003604974-Access-and-manage-data-associated-with-your-account)
+
+### Description
 
 During testing it took about 13 hours to get the data. This dataset mostly contains info about the posts you saw, the notifications you were sent, and the ads you were served. For instructions on how to export your blog content, please see the other Tumblr guide.
 
