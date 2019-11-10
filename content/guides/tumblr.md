@@ -1,9 +1,9 @@
 ---
 title: "Tumblr - Content"
-date: 2017-10-17T15:26:15Z
-lastmod: 2018-12-08T15:26:15Z
-publishdate: 2018-11-23T15:26:15Z
-draft: true
+date: 2019-11-09
+lastmod: 2019-11-09
+publishdate: 2019-11-09
+draft: false
 ---
 
 ##  Official Method
@@ -11,8 +11,27 @@ draft: true
 * **Difficulty:** Easy
 * **Speed:** 1-30 days
 * **Data exported:**
-* **Official Instructions:** [here](https://tumblr.zendesk.com/hc/en-us/articles/360003604974-Access-and-manage-data-associated-with-your-account)
+	* Private Messages
+	* Reblogged pictures, songs, and videos
+	* Original posts
+	* Reblog data
+* **Official Instructions:** [here](https://tumblr.zendesk.com/hc/en-us/articles/360005118894-Export-your-blog)
 
+### Description
+
+This method produces a zip file of media, xml, and html files. **Note:** the resulting zip file can be very large. During testing, a 9 year old account with around 30,000 posts was used - the zip file generated clocked in at 32GB. Private conversations are saved in XML while the blog posts are saved in a single XML and individual HTML files.
+
+### Steps
+
+1. Login to Tumblr in a browser on a desktop or laptop
+1. Go to the Account Settings page
+1. On the right side of the page, click the blog you'd like to export data from
+1. Scroll to the bottom of this page and click the "Export {blog}" button
+	![Request exports](/images/tumblr_content_export.png)
+1. In the next 1-30 days (probably 2) you should receive an email pointing you back to the settings page
+	![email](/images/tumblr_content_email.png)
+1. At the bottom of the page, click the "Download backup" button
+	![download](/images/tumblr_content_download.png)
 
 
 ## Unofficial Methods
