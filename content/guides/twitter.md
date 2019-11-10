@@ -1,9 +1,9 @@
 ---
 title: "Twitter"
-date: 2017-10-17T15:26:15Z
-lastmod: 2018-12-08T15:26:15Z
-publishdate: 2018-11-23T15:26:15Z
-draft: true
+date: 2019-11-09
+lastmod: 2019-11-09
+publishdate: 2019-11-09
+draft: false
 ---
 
 ##  Official Method
@@ -26,6 +26,8 @@ draft: true
 	* Username changes
 	* Verified Status
 * **Official Instructions:** [here](https://help.twitter.com/en/managing-your-account/how-to-download-your-twitter-archive)
+
+### Description
 
 Twitter's export option provides a zip file containing machine-readable Javascript files. This is convenient if the end user would like to push this data into their own custom datastore, but is not very human-readable. 
 
