@@ -2,7 +2,7 @@ baseURL = "https://backupyoush.it"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Backup Your Shit"
+title = "Backup Your Shit!"
 theme = "hugo-theme-techdoc"
 
 hasCJKLanguage = true
