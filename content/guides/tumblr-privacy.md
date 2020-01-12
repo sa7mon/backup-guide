@@ -35,6 +35,6 @@ The data is devlivered to the user in machine-readable JSON form with an accompa
 1. Click the Profile icon in the upper-right corner and click "Settings"
 1. On the right side of this page, click "Privacy"
 1. Near the bottom of this page click the "Request Privacy Data" button. You will receive an email at your registered Tumblr email address when your download is ready.
-	![Request data](/images/tumblr_request.png)
+	<img src="/images/tumblr_request.png" alt="Request data" class="bordered centered" >
 1. When you get the email, just click the link and hit the Download button.
-	![Request data](/images/tumblr_download.png)
+	<img src="/images/tumblr_download.png" alt="Download data" class="bordered centered">

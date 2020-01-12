@@ -30,7 +30,7 @@ The output is an XML file which is machine-readable and can be easily consumed b
 
 1. On a desktop or laptop open iTunes
 1. In the menu bar, click **File > Library > Export Library**<br />
-	![Choose data](/images/apple-music_export.png)
+<img src="/images/apple-music_export.png" alt="Choose data" class="centered">
 1. Choose a location to save the XML file in
 
 
@@ -53,9 +53,9 @@ If you'd like to export your library to a spreadsheet instead of an XML file, th
 
 1. On a desktop or laptop, open iTunes
 1. Right-click on the column labels above the library and enable all columns you wish to export<br />
-	![Choose columns](/images/apple-music_columns.png)
+	<img src="/images/apple-music_columns.png" alt="Choose columns" class="centered bordered">
 1. Click **Edit > Select All** to select all songs in the library, then click **Edit > Copy**
 1. Open Microsoft Excel and create a new spreadsheet
 1. In Excel, click **Edit > Paste**
 1. Now you have a spreadsheet with all library data. You may wish to create a new row at the top with the column labels<br />
-	![Excel spreadsheet](/images/apple-music_excel.png)
+<img src="/images/apple-music_excel.png" alt="Excel spreadsheet" class="bordered centered">

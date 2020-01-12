@@ -28,15 +28,9 @@ This method utilizes a 3rd party app called Exportify. Exportify uses the Spotif
 1. Go to: https://exportify.net/
 1. Click "Get Started"
 1. Spotify should ask you for permission to connect this app to your account
-	<br /><br />
-	![download](/images/spotify_authorize.png)
-	<br /><br />
+	<img src="/images/spotify_authorize.png" alt="Download" class="bordered centered">
 1. Hit "Agree"
 1. You should be greeted with a page of all your playlists. If you'd like to backup only a few playlists, hit the "Export" button on individual playlists. Otherwise, click the "Export All" button in the top-right corner of the table.
-	<br /><br />
-	![download](/images/spotify_download.png)
-	<br /><br />
+	<img src="/images/spotify_download.png" alt="Export" class="centered bordered">
 1. After you're done, it's a good idea to revoke access to the app we used. Go here: https://www.spotify.com/account/apps/ and click "Remove Access" next to Exportify
-	<br /><br />
-	![download](/images/spotify_revoke.png)
-	<br /><br />
+	<img src="/images/spotify_revoke.png" alt="Remove Access" class="centered bordered">

@@ -27,11 +27,12 @@ This method produces a zip file of media, xml, and html files. **Note:** the res
 1. Go to the Account Settings page
 1. On the right side of the page, click the blog you'd like to export data from
 1. Scroll to the bottom of this page and click the "Export {blog}" button
-	![Request exports](/images/tumblr_content_export.png)
+	<!-- ![Request exports](/images/tumblr_content_export.png) -->
+	<img src="/images/tumblr_content_export.png" alt="Request exports" class="centered bordered" />
 1. In the next 1-30 days (probably 2) you should receive an email pointing you back to the settings page
-	![email](/images/tumblr_content_email.png)
+	<img src="/images/tumblr_content_email.png" alt="Email" class="bordered centered">
 1. At the bottom of the page, click the "Download backup" button
-	![download](/images/tumblr_content_download.png)
+	<img src="/images/tumblr_content_download.png" alt="Download" class="bordered centered" />
 
 
 ## Unofficial Methods

@@ -37,6 +37,6 @@ Twitter's export option provides a zip file containing machine-readable Javascri
 1. Go to your settings page [here](https://twitter.com/settings/account)
 1. On the left sidebar, click "Your Twitter data"
 1. Scroll all the way to the bottom of this page and click the "Request data" button
-	![Request data](/images/twitter_request.png)
+	<img src="/images/twitter_request.png" alt="Request data" class="centered">
 1. When your download is ready, Twitter will send an email to your Twitter email address with a link that takes you back to the "Your Twitter data" page to download a zip file.
-	![Request data](/images/twitter_download.png)
+	<img src="/images/twitter_download.png" alt="Download" class="centered bordered">

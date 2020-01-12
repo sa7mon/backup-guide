@@ -37,12 +37,11 @@ Instagram makes it very easy to download all of your account data. The archive i
 1. Next to your name, click the gear icon and then **Privacy and Security**
 1. Scroll down near the bottom under **Data Download** and click "Request Download"
 1. Enter the email address you'd like your data archive to be sent to
-	![Confirm Email](/images/instagram_email.png) 
+	<img src="/images/instagram_email.png" alt="Confirm email" class="bordered centered">
 1. Confirm your password
 1. A link will be sent to the email you entered in under 48 hours
-	![Success message](/images/instagram_confirm.png)
+	<img src="/images/instagram_confirm.png" alt="Success message" class="bordered centered">
 1. Click the link in your email
-
-	![Email link](/images/instagram_link.png)
+	<img src="/images/instagram_link.png" alt="Email link" class="bordered centered">
 1. You will be prompted to re-login as a security precaution. Then just hit the download link
-	![Download data](/images/instagram_download.png)
+	<img src="/images/instagram_download.png" alt="Download data" class="bordered centered">

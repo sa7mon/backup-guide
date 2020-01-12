@@ -35,9 +35,8 @@ If you are unfamiliar with this file type, this is very similar to a .zip file, 
 1. From a desktop or laptop, log in to https://github.com
 1. Go to your profile settings page here: https://github.com/settings/profile
 1. On the left side column, click "Account"
-1. Under "Export account data" click **Start Export**<br /><br />
+1. Under "Export account data" click **Start Export**
 	<img src="/images/github_start.png" alt="Data & Privacy" class="bordered centered" />
-	<br />
-1. Once the data export is ready, you'll receive an email with a download link. Simply hit that link and your download should start.<br /><br />
+1. Once the data export is ready, you'll receive an email with a download link. Simply hit that link and your download should start.
 	<img src="/images/github_download.png" alt="Data & Privacy" class="bordered centered" />
 
