@@ -15,6 +15,11 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
+[blackfriday]
+  hrefTargetBlank = true  # `true` opens external links in a new tab.
+  fractions = true        # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
+  smartypants = false      # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
+
 [Params]
 
     # Souce Code repository section
