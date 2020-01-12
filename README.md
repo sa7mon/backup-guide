@@ -11,7 +11,6 @@ If you'd like to request a guide or flag an error in an existing guide, please [
 * Apple - account data
 * Dropbox
 * Facebook
-* Github
 * Google
 * Hacker News (ycombinator)
 * LinkedIn
