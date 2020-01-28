@@ -8,7 +8,6 @@ If you'd like to request a guide or flag an error in an existing guide, please [
 
 ## Guides to do
 
-* Apple - account data
 * Dropbox
 * Facebook
 * Google
