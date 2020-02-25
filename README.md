@@ -12,7 +12,6 @@ If you'd like to request a guide or flag an error in an existing guide, please [
 * Facebook
 * Google
 * Hacker News (ycombinator)
-* LinkedIn
 * Office 365 - emails
 * OneDrive
 * Reddit
