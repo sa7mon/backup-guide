@@ -4,6 +4,7 @@ date: 2020-01-12
 lastmod: 2020-01-12
 publishdate: 2020-01-12
 draft: false
+description: Export all of your data from Github
 ---
 
 ##  Official Method
