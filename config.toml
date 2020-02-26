@@ -24,6 +24,9 @@ enableMissingTranslationPlaceholders = false
 
     # Souce Code repository section
     description = "Guides to help you preserve your online life"
+    images = ["/images/200px-backup.png"]  # For Twitter card. Supposed to work with OG image too, but doesn't
+    main_og_image = "/images/200px-backup.png"  # Fix for OG image not working with internal template for some reason
+
     github_repository = "https://github.com/sa7mon/backup-your-shit"
     version = "0.4.0"
 
