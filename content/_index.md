@@ -2,6 +2,8 @@
 date: 2019-11-05
 lastmod: 2019-11-05
 publishdate: 2019-11-05
+description: Guides to help you preserve your online life
+title: Backup Your Shit!  # So the og:title and twitter:title tags aren't empty
 ---
 
 # Welcome
