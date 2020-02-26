@@ -4,6 +4,7 @@ date: 2020-02-25
 publishdate: 2020-02-25
 lastmod: 2020-02-25
 draft: false
+description: Backup your LinkedIn data
 ---
 
 ##  Official Method

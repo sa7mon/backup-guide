@@ -4,6 +4,7 @@ date: 2019-11-10
 lastmod: 2019-11-10
 publishdate: 2019-11-10
 draft: false
+description: Backup your Spotify data
 ---
 
 Spotify does not currently have an official way of making a backup list of all playlists and songs in an account. For now, 3rd party tools are the only option.

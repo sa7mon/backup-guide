@@ -4,6 +4,7 @@ date: 2019-11-09
 lastmod: 2019-11-09
 publishdate: 2019-11-09
 draft: false
+description: Backup your Tumblr privacy data
 ---
 
 ##  Official Method
